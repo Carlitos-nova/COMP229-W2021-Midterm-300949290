@@ -10,5 +10,6 @@ Midterm Test
  */
 module.exports = {
 
-    "URI": "mongodb://localhost/book_store"
+    //"URI": "mongodb://localhost/book_store"
+    "URI": "mongodb+srv://carlitos:s3A0dRVBci6JKZhV@mongodbserver.tolpe.mongodb.net/book_store?retryWrites=true&w=majority"
 }
